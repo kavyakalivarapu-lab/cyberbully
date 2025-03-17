@@ -1,2 +1,2 @@
 # cyberbully
-Cyber Bullying detection from text data. 
+Cyber Bullying detection from text data.
